@@ -1,6 +1,7 @@
 # app-dev
 My first repositry
-1. Family Guy **bold text**
-2. Stranger Things **bold text**
-3. The Kingdom **bold text**
-4. Svart Krabba **bold text**
+1. **Family Guy**
+2. **Stranger Things**
+3. **The Kingdom (2007 movie)**
+4. **Svart Krabba (2022 Swedish movie)**
+5. **The Transformers (1984-1987 tv series)**
